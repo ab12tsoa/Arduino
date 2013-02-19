@@ -1,5 +1,5 @@
 
-
+//String[] sq = {"00", "80", "D0", "60", "30", "A8", "DD", "66", "33", "1A", "0D", "06", "03", "01", "00" }
 //Arduino arduino;
 
 #define  PIN_SER  2
@@ -80,6 +80,8 @@ void loop() {
     delay(100);
   }
   
+//  Animate(sq);
+  
 //  shifty eyes!
 //  writeByte(0xaa); //striped 1010
 //  toggleRCLK();
@@ -87,6 +89,7 @@ void loop() {
 //  writeByte(0x55); //striped 0101
 //  toggleRCLK();
 //  delay(1000);
+
 }
 
 

@@ -1,0 +1,11 @@
+class Animate{
+   har[] bits = new char[];
+
+  Animate(){
+    
+   } 
+   
+   void square(){
+
+   }
+}
